@@ -1,0 +1,44 @@
+repo_name: dmanning23/multimedia_homework
+report_id: 471437a956f2e370469ab4b73d4cd91f
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T14:41:14+00:00'
+requested_by: dmanning23
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/dmanning23/multimedia_homework
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dmanning23/multimedia_homework
+  detection_source: Repo Metadata
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/dmanning23/multimedia_homework/blob/master/WidgetHierarchy/WidgetHierarchy.sln
+  detection_source: WidgetHierarchy/WidgetHierarchy.sln
+  last_updated_by: unknown
+  last_updated_on: 2014-08-15 04:38:39.000000000 Z
